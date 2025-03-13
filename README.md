@@ -13,7 +13,7 @@ This project demonstrates a semantically structured CV using HTML and CSS, with 
 
 ## Project URL
 
-The project is hosted at: https://roadmap.sh/projects/single-page-cv
+The project is hosted at: https://roadmap.sh/projects/single-page-cv/solutions?u=648f8fbb779070ae624a87aa
 ## Requirements Fulfilled
 
 - [x] Semantic HTML tags
@@ -21,3 +21,5 @@ The project is hosted at: https://roadmap.sh/projects/single-page-cv
 - [x] Open Graph (OG) tags
 - [x] Favicon
 - [x] Clean, professional layout
+
+
